@@ -8,12 +8,6 @@ A Flutter application for purchasing vouchers with dynamic pricing, multiple pay
 |----------|----------|
 | ![Screenshot 1](assets/app_screenshots/Screenshot%202026-04-28%20151717.png) | ![Screenshot 2](assets/app_screenshots/Screenshot%202026-04-28%20151732.png) |
 
-## 🔗 GitHub Repository
-
-**Repository Link:** [Add your GitHub repository link here]
-
-Replace the above link with your actual GitHub repository URL.
-
 ## 📋 Project Overview
 
 This application demonstrates a complete voucher purchasing flow with:
